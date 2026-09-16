@@ -125,25 +125,12 @@ The system can auto-generate simulation resources and simultaneously create two 
 
 ## Project Structure
 
+## Project Structure
+
 ```text
 FireResQ-Smart-Fire-Emergency-Response-Management-System/
 │
 ├── src/
-│   ├── DatabaseManager.class
-│   ├── Dispatch.class
-│   ├── DispatchManager.class
-│   ├── Emergency.class
-│   ├── EmergencyProcessingThread.class
-│   ├── EmergencyStatus.class
-│   ├── FireEmergency.class
-│   ├── Firefighter.class
-│   ├── FireSeverity.class
-│   ├── FireStation.class
-│   ├── FireTruck.class
-│   ├── InvalidEmergencyException.class
-│   ├── InvalidInputException.class
-│   ├── NoResourceAvailableException.class
-│   │
 │   └── SmartFireEmergencySystem.java
 │
 ├── lib/
