@@ -459,6 +459,4 @@ This system was developed as an academic Java project to demonstrate the practic
 
 ## Author
 
-Sumit Shrivastava
-B.Tech CSE (AI & ML)
-VIT Bhopal University
+Sumit Shrivastava | B.Tech CSE (AI & ML) | VIT Bhopal University
