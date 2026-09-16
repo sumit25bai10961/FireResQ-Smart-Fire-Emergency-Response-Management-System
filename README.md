@@ -125,8 +125,6 @@ The system can auto-generate simulation resources and simultaneously create two 
 
 ## Project Structure
 
-## Project Structure
-
 ```text
 FireResQ-Smart-Fire-Emergency-Response-Management-System/
 │
