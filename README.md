@@ -156,7 +156,7 @@ mysql --version
 Clone the repository or extract the provided ZIP file into a folder on your machine.
 
 ```bash
-git clone <YOUR-REPOSITORY-URL>
+git clone https://github.com/sumit25bai10961/FireResQ-Smart-Fire-Emergency-Response-Management-System
 ```
 
 ### Step 2 — Open the Project Folder
@@ -370,7 +370,8 @@ The following screenshot shows the **Smart Fire & Emergency Response Management 
 
 ### Main Application Output
 
-![Smart Fire & Emergency Response Management System - Running Output](screenshots/project-running-output.png)
+![Smart Fire & Emergency Response Management System - Running Output]
+<img width="1845" height="1015" alt="Screenshot 2026-09-16 222701" src="https://github.com/user-attachments/assets/0a49ccd1-1d21-4bf1-993c-74a9be981a01" />
 
 The application starts successfully and displays the main menu with options for emergency registration, resource management, priority-based dispatch, status updates, incident history, database operations, and multithreading simulation.
 
@@ -390,34 +391,21 @@ The following workflow can be performed after launching the application:
 10. Perform MySQL database operations using **Option 12**.
 11. Run the multiple emergency simulation using **Option 13**.
 
-> **Screenshot:** The image above should be an actual screenshot captured while the project is running on the terminal. It should not be a simulated or manually created image.
-
-### Additional Output Screenshots
-
-If required, additional screenshots can be placed in the `screenshots/` folder to demonstrate important features.
-
-For example:
-
-```text
-screenshots/
-├── project-running-output.png
-├── emergency-registration.png
-├── emergency-dispatch.png
-├── database-operation.png
-└── multithreading-simulation.png
-```
+### Additional Output Screenshots.
 
 They can be displayed in this README using:
 
-```markdown
-![Emergency Registration](screenshots/emergency-registration.png)
+![Emergency Registration]
 
-![Emergency Dispatch](screenshots/emergency-dispatch.png)
+<img width="1840" height="1018" alt="Screenshot 2026-09-16 223112" src="https://github.com/user-attachments/assets/c2ae76a5-c048-4ecd-aa13-b2849097c741" />
 
-![Database Operation](screenshots/database-operation.png)
+![Emergency Dispatch]
 
-![Multithreading Simulation](screenshots/multithreading-simulation.png)
-```
+<img width="1846" height="1017" alt="Screenshot 2026-09-16 223519" src="https://github.com/user-attachments/assets/7ad45b99-2d23-47f8-b087-8a4ebab6ec42" />
+
+![Database Operation]
+
+<img width="1849" height="1018" alt="Screenshot 2026-09-16 224519" src="https://github.com/user-attachments/assets/88be64c8-6bab-43d5-8418-ad33e7496d52" />
 
 Only add the additional images after the corresponding screenshots have been captured from the actual running application.
 
@@ -471,4 +459,6 @@ This system was developed as an academic Java project to demonstrate the practic
 
 ## Author
 
-Developed as an academic Java project.
+Sumit Shrivastava
+B.Tech CSE (AI & ML)
+VIT Bhopal University
