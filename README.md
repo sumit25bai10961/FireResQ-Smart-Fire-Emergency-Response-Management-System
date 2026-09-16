@@ -126,13 +126,32 @@ The system can auto-generate simulation resources and simultaneously create two 
 ## Project Structure
 
 ```text
-Project-Root/
+FireResQ-Smart-Fire-Emergency-Response-Management-System/
+│
 ├── src/
-│   └── SmartFireEmergencySystem.java   # Main application source code
+│   ├── DatabaseManager.class
+│   ├── Dispatch.class
+│   ├── DispatchManager.class
+│   ├── Emergency.class
+│   ├── EmergencyProcessingThread.class
+│   ├── EmergencyStatus.class
+│   ├── FireEmergency.class
+│   ├── Firefighter.class
+│   ├── FireSeverity.class
+│   ├── FireStation.class
+│   ├── FireTruck.class
+│   ├── InvalidEmergencyException.class
+│   ├── InvalidInputException.class
+│   ├── NoResourceAvailableException.class
+│   │
+│   └── SmartFireEmergencySystem.java
+│
 ├── lib/
-│   └── mysql-connector-j-26.7.0.jar    # JDBC driver for MySQL
-├── incident_history.txt                # Local file storage (created upon saving)
-└── README.md                           # Project documentation
+│   └── mysql-connector-j-26.7.0.jar
+│
+├── incident_history.txt
+├── README.md
+└── statement.md
 ```
 
 ## Requirements / Prerequisites
