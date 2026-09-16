@@ -1,0 +1,5 @@
+========================================
+EMERGENCY INCIDENT HISTORY
+========================================
+ID: EMG-1 | Status: RESOLVED | Loc: Bhopal | Severity: HIGH
+ID: EMG-2 | Status: REPORTED | Loc: indore | Severity: HIGH
