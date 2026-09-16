@@ -1,6 +1,6 @@
-# Smart Fire & Emergency Response Management System
+# FireResQ - Smart Fire & Emergency Response Management System
 
-The **Smart Fire & Emergency Response Management System** is a Java console-based application designed to streamline the handling of fire emergencies and the dispatch of firefighting resources. By allowing dispatchers to register emergencies, assess severity and priority, and optimally allocate available fire trucks and firefighters, this system digitizes and organizes real-time incident management.
+The **FireResQ - Smart Fire & Emergency Response Management System** is a Java console-based application designed to streamline the handling of fire emergencies and the dispatch of firefighting resources. By allowing dispatchers to register emergencies, assess severity and priority, and optimally allocate available fire trucks and firefighters, this system digitizes and organizes real-time incident management.
 
 ## Overview
 
